@@ -1,0 +1,96 @@
+*
+{
+	box-sizing:border-box;
+}
+.cname
+{
+	background-color:#006699;
+	height:150px;
+	text-align:center;
+	color:white;
+	padding-top:30px;
+}
+.menu{
+	background-color:#006699;
+	height:50px;
+	text-align:center;
+	padding-top:15px;
+	border-radius:10px;
+	font-size:20px;
+	
+}
+a
+{
+	color:white;
+	text-decoration:none;
+	display:block;
+}
+.banner
+{
+	background-image:url('../photos/banner.jpg');
+	height:300px;
+	margin-top:3px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}
+.about
+{
+	background-color:#006699;
+	opacity:10px;
+	height:100px;
+	color:white;
+	text-align:center;
+	padding-top:18px;
+	margin-top:3px;
+	
+}
+.work
+{
+	border-style:solid;
+    margin:30px 10px 30px 10px;
+}
+.contact
+{
+margin:30px 10px 30px 10px;
+height:500px;
+width:400px;
+}
+.about_content
+{
+	margin-top:5px;
+}
+.experience_content h2
+{
+	margin-top:100px;
+}
+.skills
+{
+
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 5px;
+}
+.skills img 
+{
+    width: 150px;
+    height: 150px;
+    text-align: justify;
+}
+.section
+{
+	background-color:#006699;
+	color:white;
+	text-align:center;
+	padding-top:18px;
+	margin-top:3px;
+	
+}
+.social
+{
+	display:inline;
+}
+ul li
+{
+	font-size:24px;
+}
