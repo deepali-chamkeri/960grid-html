@@ -1,6 +1,11 @@
 *
 {
 	box-sizing:border-box;
+	font-family: 'Charm', cursive;
+}
+p
+{
+	font-size:20px;
 }
 .cname
 {
@@ -14,7 +19,7 @@
 	background-color:#006699;
 	height:50px;
 	text-align:center;
-	padding-top:15px;
+	padding-top:12px;
 	border-radius:10px;
 	font-size:20px;
 	
